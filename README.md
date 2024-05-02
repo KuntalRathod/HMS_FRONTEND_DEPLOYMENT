@@ -76,4 +76,8 @@ Features authentication & authorization, working with multiple json web tokens, 
 * You(Patient) can send appointment to your doctor and you can choice your doctor and their department 
 * Admin can see all patient appointment details & messages and register new doctor and register new admin and all action perform via the admin dashboard.
 
+## Future Developments 
+This is not the end; I will plan to enhance this project with additional functionalities based on user feedback and evolving needs in future.
+
+
 ***Made by ❤️ [Kuntal](https://www.linkedin.com/in/kuntal-rathod-b5ba5a239/)*** click and visit.
